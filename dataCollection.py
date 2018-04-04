@@ -46,7 +46,7 @@ class ArchiveAPI(object):
 api = ArchiveAPI('0ba6dc04a8cb44e0a890c00df88c393a')
 
 
-years = [2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007]
+years = [2017]
 months = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
 
 for year in years:
